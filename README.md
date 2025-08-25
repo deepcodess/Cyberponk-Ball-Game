@@ -44,7 +44,7 @@ The game features glowing cyberpunk visuals, neon effects, and smooth ball physi
 ## 📸 Screenshots
 
 > <p align="center">
-  <img src="https://github.com/deepcodess/Cyberponk-Ball-Game/App/gamescreenshots" width="600" alt="Cyberponk Pong Screenshot">
+  <img src="https://github.com/deepcodess/Cyberponk-Ball-Game/App/gamescreenshots.png" width="600" alt="Cyberponk Pong Screenshot">
 </p>
 
 ---
