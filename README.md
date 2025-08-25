@@ -34,17 +34,18 @@ The game features glowing cyberpunk visuals, neon effects, and smooth ball physi
 
 ## 🎮 Gameplay & Controls
 
-### Player A  
+SPACE to Start the Game
+
+### Player Controls
 - `W` → Move paddle up  
 - `S` → Move paddle down  
-
 
 ---
 
 ## 📸 Screenshots
 
 > <p align="center">
-  <img src="https://github.com/deepcodess/Cyberponk-Ball-Game/App/gamescreenshots.png" width="600" alt="Cyberponk Pong Screenshot">
+  <img src="https://github.com/deepcodess/Cyberponk-Ball-Game/blob/main/App/gamescreenshots.png" width="600" alt="Cyberponk Pong Screenshot">
 </p>
 
 ---
